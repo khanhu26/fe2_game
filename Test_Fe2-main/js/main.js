@@ -1,7 +1,7 @@
 const arrJPWord = new Map();
   arrJPWord.set('1', '一')
  .set('2', '二')
-/*  .set('3', '三')
+ .set('3', '三')
  .set('4', '四')
  .set('5', '五')
  .set('6','六')
@@ -54,7 +54,7 @@ const arrJPWord = new Map();
  .set('ro','ろ')
  .set('wa','わ')
  .set('wo','を')
-.set('n','ん');   */
+.set('n','ん'); 
 var bongno  = new Audio('./music/Tieng-bong-bong-no-www_tiengdong_com.mp3');
 
 var music = document.querySelector('#musicnen');
